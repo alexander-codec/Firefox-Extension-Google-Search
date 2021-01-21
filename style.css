@@ -1,0 +1,60 @@
+:root {
+    --color-background: #222222;
+    --color-background-shadow: #4a4a4a;
+    --color-dark: #1F232A;
+    --color-text: #efefef;
+    --color-bar: #1a1a1a;
+	--color-other: #333333;
+    --color-textdark: #777474;
+    --color-button: #404040;
+    --color-icon: #E1E1E1;
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-dark) var(--color-background-shadow);
+    color: var(--color-text) !important;
+}
+
+/* estilo de search */
+
+.MGqjK, .SmeuHe, .I6TXqe, .KPV9xf, .HErFVb, .lgJJud {
+	background: var(--color-bar) !important;
+}
+.WpKAof:hover, .YbqTTb, .gb_xb:hover, .dw-sb-cont .dw-sb-btn, .dw-sb-cont .dw-sbi, .mQo3nc {
+	background-color: var(--color-background-shadow) !important;
+}
+.Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, g-inner-card, #center_col g-card, .YEMaTe, .gb_vb.gb_vb, .gb_zb.gb_zb, .gb_Hb.gb_Hb, .haApub, .T6b9se, ._-ks, .FAl3Ic {
+	background-color: var(--color-bar) !important;
+}
+.pla-ikpd__modal, .cUezCb, .s8GCU, .yg51vc, .Xeztj, .etUWZd, .YSlUOe {
+	background-color: var(--color-background) !important;
+}
+.Z8r5Gb {
+	background: var(--color-background) !important;
+}
+.dw-sb-cont {
+	background: var(--color-background-shadow) !important;
+}
+
+.Gor6zc, .vFd7Ub {/* fundo das fotos */
+	background-color: white !important;
+}
+
+div#hplogo a img.fJOQGe {
+	display: none;
+}
+div#hplogo a img {
+	border-radius: 10px;
+	padding-top: inherit !important;
+}
+._-lh {
+    border-top: inherit !important;
+}
+.minidiv .gsfi {
+    height: 10px !important;
+    margin-top: -5px !important;
+}
+.gb_3e.gb_Fg.gb_i + div, .gb_3e.gb_Fg.gb_i + div > div {
+	background: var(--color-bar) !important;
+}

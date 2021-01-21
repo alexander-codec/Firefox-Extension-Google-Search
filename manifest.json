@@ -1,0 +1,22 @@
+{
+  "description": "Tenha uma nova experiência no Pesquisa do Google | Have a new experience on Google Search",
+  "manifest_version": 2,
+  "name": "Google Search Dark (Tema Escuro)",
+  "author": "Johnendz",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["*://www.google.com/", "*://www.google.com/?*", "*://www.google.com/search*", "*://www.google.com/webhp*", "*://www.google.com.br/", "*://www.google.com.br/?*", "*://www.google.com.br/search*", "*://www.google.com.br/webhp*", "*://www.google.co.in/", "*://www.google.co.in/?*", "*://www.google.co.in/search*", "*://www.google.co.in/webhp*", "*://www.google.de/", "*://www.google.de/?*", "*://www.google.de/search*", "*://www.google.de/webhp*", "*://www.google.com.hk/", "*://www.google.com.hk/?*", "*://www.google.com.hk/search*", "*://www.google.com.hk/webhp*", "*://www.google.co.uk/", "*://www.google.co.uk/?*", "*://www.google.co.uk/search*", "*://www.google.co.uk/webhp*", "*://www.google.fr/", "*://www.google.fr/?*", "*://www.google.fr/search*", "*://www.google.fr/webhp*", "*://www.google.co.jp/", "*://www.google.co.jp/?*", "*://www.google.co.jp/search*", "*://www.google.co.jp/webhp*", "*://www.google.ru/", "*://www.google.ru/?*", "*://www.google.ru/search*", "*://www.google.ru/webhp*", "*://www.google.it/", "*://www.google.it/?*", "*://www.google.it/search*", "*://www.google.it/webhp*", "*://www.google.es/", "*://www.google.es/?*", "*://www.google.es/search*", "*://www.google.es/webhp*", "*://www.google.com.mx/", "*://www.google.com.mx/?*", "*://www.google.com.mx/search*", "*://www.google.com.mx/webhp*", "*://www.google.pl/", "*://www.google.pl/?*", "*://www.google.pl/search*", "*://www.google.pl/webhp*", "*://www.google.nl/", "*://www.google.nl/?*", "*://www.google.nl/search*", "*://www.google.nl/webhp*", "*://www.google.ro/", "*://www.google.ro/?*", "*://www.google.ro/search*", "*://www.google.ro/webhp*", "*://www.google.sk/", "*://www.google.sk/?*", "*://www.google.sk/search*", "*://www.google.sk/webhp*", "*://www.google.ca/", "*://www.google.ca/?*", "*://www.google.ca/search*", "*://www.google.ca/webhp*", "*://www.google.hu/", "*://www.google.hu/?*", "*://www.google.hu/search*", "*://www.google.hu/webhp*", "*://www.google.co.th/", "*://www.google.co.th/?*", "*://www.google.co.th/search*", "*://www.google.co.th/webhp*", "*://www.google.com.tr/", "*://www.google.com.tr/?*", "*://www.google.com.tr/search*", "*://www.google.com.tr/webhp*"],
+      "css":["style.css"],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ],
+  
+  "icons": {
+      "32": "icons/32.png",
+      "64": "icons/64.png",
+      "128": "icons/128.png"
+  }
+}
