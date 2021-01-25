@@ -16,24 +16,22 @@
     color: var(--color-text) !important;
 }
 
-/* estilo de search */
-
-.MGqjK, .SmeuHe, .I6TXqe, .KPV9xf, .HErFVb, .lgJJud {
+.MGqjK, .SmeuHe, .I6TXqe, .KPV9xf, .HErFVb, .lgJJud, .sfbg, #hdtb, .yg51vc, .action-menu-panel, .kp-blk, .cbjjnc, .sh-dlr__list-result, .Lj9fsd, .jZWadf {
 	background: var(--color-bar) !important;
 }
-.WpKAof:hover, .YbqTTb, .gb_xb:hover, .dw-sb-cont .dw-sb-btn, .dw-sb-cont .dw-sbi, .mQo3nc {
+.WpKAof:hover, .YbqTTb, .gb_xb:hover, .dw-sb-cont .dw-sb-btn, .dw-sb-cont .dw-sbi, .mQo3nc, .GshZze:not(.hdtb-tl-sel):hover, .sbibod, input, .e7RZX {
 	background-color: var(--color-background-shadow) !important;
 }
-.Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, g-inner-card, #center_col g-card, .YEMaTe, .gb_vb.gb_vb, .gb_zb.gb_zb, .gb_Hb.gb_Hb, .haApub, .T6b9se, ._-ks, .FAl3Ic {
+.Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, g-inner-card, #center_col g-card, .YEMaTe, .gb_vb.gb_vb, .gb_zb.gb_zb, .gb_Hb.gb_Hb, .haApub, .T6b9se, ._-ks, .FAl3Ic, .tfB0Bf input[type="submit"], .gbqfba, .BlOseb.eSq3C g-fab, .k2Oeod.eSq3C g-fab, .G9CET, .F9PbJd, .YcWSDf, .fWhgmd {
 	background-color: var(--color-bar) !important;
 }
-.pla-ikpd__modal, .cUezCb, .s8GCU, .yg51vc, .Xeztj, .etUWZd, .YSlUOe {
+.pla-ikpd__modal, .cUezCb, .s8GCU, .Xeztj, .etUWZd, .YSlUOe, .GHDvEf, .GHDvEf:hover, .GHDvEf.selected, .GHDvEf.selected:hover, .dkw61e, .N3nEGc {
 	background-color: var(--color-background) !important;
 }
-.Z8r5Gb {
+.Z8r5Gb, body, .f6F9Be, .appbar, .sh-dr__prs {
 	background: var(--color-background) !important;
 }
-.dw-sb-cont {
+.dw-sb-cont, .RNNXgb, .aajZCb, .lst-c .sbib_a, .zthhpf {
 	background: var(--color-background-shadow) !important;
 }
 
@@ -41,7 +39,7 @@
 	background-color: white !important;
 }
 
-div#hplogo a img.fJOQGe {
+div#hplogo a img.fJOQGe, .xtSCL, .FqnKTc, .AVSjFc {
 	display: none;
 }
 div#hplogo a img {
@@ -57,4 +55,7 @@ div#hplogo a img {
 }
 .gb_3e.gb_Fg.gb_i + div, .gb_3e.gb_Fg.gb_i + div > div {
 	background: var(--color-bar) !important;
+}
+.RNNXgb, .sbibod, .zthhpf {
+	border: none !important;
 }
