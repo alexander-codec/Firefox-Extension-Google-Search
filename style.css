@@ -39,7 +39,7 @@
 	background-color: white !important;
 }
 
-div#hplogo a img.fJOQGe, .xtSCL, .FqnKTc, .AVSjFc {
+div#hplogo a img.fJOQGe, .xtSCL, .FqnKTc, .AVSjFc, .fbar .b2hzT {
 	display: none;
 }
 div#hplogo a img {
@@ -58,4 +58,12 @@ div#hplogo a img {
 }
 .RNNXgb, .sbibod, .zthhpf {
 	border: none !important;
+}
+#gbwa > div > a {
+    width: 25px !important;
+    height: 25px !important;
+    background-image: url('https://github.com/johnendz/Firefox-Extension-Google-Dark-Search/blob/master/button_products.png?raw=true') !important;
+    background-size: 25px 25px !important;
+    margin-top: 6px !important;
+    background-position: initial !important;
 }
