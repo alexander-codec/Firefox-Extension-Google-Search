@@ -16,13 +16,13 @@
     color: var(--color-text) !important;
 }
 
-.MGqjK, .SmeuHe, .I6TXqe, .KPV9xf, .HErFVb, .lgJJud, .sfbg, #hdtb, .yg51vc, .action-menu-panel, .kp-blk, .cbjjnc, .sh-dlr__list-result, .Lj9fsd, .jZWadf {
+.MGqjK, .SmeuHe, .I6TXqe, .KPV9xf, .HErFVb, .lgJJud, .sfbg, #hdtb, .yg51vc, .action-menu-panel, .kp-blk, .cbjjnc, .sh-dlr__list-result, .Lj9fsd, .jZWadf, .MXl0lf {
 	background: var(--color-bar) !important;
 }
-.WpKAof:hover, .YbqTTb, .gb_xb:hover, .dw-sb-cont .dw-sb-btn, .dw-sb-cont .dw-sbi, .mQo3nc, .GshZze:not(.hdtb-tl-sel):hover, .sbibod, input, .e7RZX {
+.WpKAof:hover, .YbqTTb, .gb_xb:hover, .dw-sb-cont .dw-sb-btn, .dw-sb-cont .dw-sbi, .mQo3nc, .GshZze:not(.hdtb-tl-sel):hover, .sbibod, input, .e7RZX, .tw-bilingual-marked {
 	background-color: var(--color-background-shadow) !important;
 }
-.Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, g-inner-card, #center_col g-card, .YEMaTe, .gb_vb.gb_vb, .gb_zb.gb_zb, .gb_Hb.gb_Hb, .haApub, .T6b9se, ._-ks, .FAl3Ic, .tfB0Bf input[type="submit"], .gbqfba, .BlOseb.eSq3C g-fab, .k2Oeod.eSq3C g-fab, .G9CET, .F9PbJd, .YcWSDf, .fWhgmd {
+.Y92sLc, .pla-ikpd__modal-content-container, .ZbgEX, .Qnaule, .k8XOCe, .rl_item_base, g-inner-card, #center_col g-card, .YEMaTe, .gb_vb.gb_vb, .gb_zb.gb_zb, .gb_Hb.gb_Hb, .haApub, .T6b9se, ._-ks, .FAl3Ic, .tfB0Bf input[type="submit"], .gbqfba, .BlOseb.eSq3C g-fab, .k2Oeod.eSq3C g-fab, .G9CET, .F9PbJd, .YcWSDf, .fWhgmd, .vk_c, #tw-target {
 	background-color: var(--color-bar) !important;
 }
 .pla-ikpd__modal, .cUezCb, .s8GCU, .Xeztj, .etUWZd, .YSlUOe, .GHDvEf, .GHDvEf:hover, .GHDvEf.selected, .GHDvEf.selected:hover, .dkw61e, .N3nEGc {
@@ -56,7 +56,7 @@ div#hplogo a img {
 .gb_3e.gb_Fg.gb_i + div, .gb_3e.gb_Fg.gb_i + div > div {
 	background: var(--color-bar) !important;
 }
-.RNNXgb, .sbibod, .zthhpf {
+.RNNXgb, .sbibod, .zthhpf, .DFDLnc {
 	border: none !important;
 }
 #gbwa > div > a {
@@ -66,4 +66,24 @@ div#hplogo a img {
     background-size: 25px 25px !important;
     margin-top: 6px !important;
     background-position: initial !important;
+}
+.gb_4 {
+    font-family: 'Google Sans',arial,sans-serif;
+    letter-spacing: .25px;
+    background: #1a73e8;
+    border-radius: 3px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    min-width: 4em;
+    outline: none;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    z-index: 0;
+    cursor: pointer !important;
+}
+.gb_4:hover {
+    background:#287ae6;
+    box-shadow: 0 1px 1px 0 rgba(66,133,244,0.45),0 1px 3px 1px rgba(66,133,244,0.3);
 }
