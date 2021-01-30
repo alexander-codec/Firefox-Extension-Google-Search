@@ -62,7 +62,7 @@ div#hplogo a img {
 #gbwa > div > .gb_sc {
     width: 25px !important;
     height: 25px !important;
-    background-image: url('https://github.com/johnendz/Firefox-Extension-Google-Dark-Search/blob/master/button_products.png?raw=true') !important;
+    background-image: url('https://github.com/alexander-codec/Firefox-Extension-Google-Search/raw/main/button_products.png') !important;
     background-size: 25px 25px !important;
     margin-top: 2px !important;
     background-position: initial !important;
